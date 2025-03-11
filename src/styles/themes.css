@@ -1,0 +1,35 @@
+.default-theme {
+  --primary-color: #2b6cb0;
+  --bg-color: #ffffff;
+  --text-color: #000000;
+}
+
+.neon-theme {
+  --primary-color: #39ff14;
+  --bg-color: #000000;
+  --text-color: #39ff14;
+}
+
+.imessage-theme {
+  --primary-color: #007aff;
+  --bg-color: #e5e5ea;
+  --text-color: #1c1c1e;
+}
+
+.discord-theme {
+  --primary-color: #5865f2;
+  --bg-color: #36393f;
+  --text-color: #ffffff;
+}
+
+.whatsapp-theme {
+  --primary-color: #25d366;
+  --bg-color: #dcf8c6;
+  --text-color: #075e54;
+}
+
+.chatgpt-theme {
+  --primary-color: #10a37f;
+  --bg-color: #f4f4f5;
+  --text-color: #202123;
+}
